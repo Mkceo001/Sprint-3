@@ -1,0 +1,17 @@
+[
+    {
+        "Name":"Arun",
+        "Age":25,
+        "Salary":25000
+    },
+    {
+        "Name":"Priya",
+        "Age":28,
+        "Salary":35000
+    },
+    {
+        "Name":"Kumar",
+        "Age":30,
+        "Salary":40000
+    }
+]
